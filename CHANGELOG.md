@@ -16,7 +16,14 @@ This project adheres to [Semantic Versioning](http://semver.org/)
 - better documentation for using it with CSS
 - CSS/Javascript effect for opening and closing menus (maybe)
 
+## 0.1.1 - 2018-04-02
+
+### Fixed
+- LICENSE file
+- CHANGELOG entry for 0.1.0
+
 ## 0.1.0 - 2018-04-02
 
+### Added
 - Initial Icon Design assets (png and svg files)
 - README (and LEIAME), LICENSE and CHANGELOG files
