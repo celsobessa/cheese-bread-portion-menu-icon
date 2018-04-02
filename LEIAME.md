@@ -10,7 +10,7 @@ O ícone é representação de uma porção de Pão de Queijo, a deliciosa comid
 
 Como o Japu - Rotas das Vertentes é sobre Tiradentes, tem base na cidade mineira, e a equipe adora pão de queijo, nada mais justo que usar uma porção desta delícia como inspiração para o nosso menu.
 
-![Um celular mostrando o aplicativo Japu - Rotas da Vertentes com o ícone de menu Porção de Pão de Queijo](japuapp-com-br-app-cheese-bread-portion-menu-icon-1.jpg)
+![Um celular mostrando o aplicativo Japu - Rotas da Vertentes com o ícone de menu Porção de Pão de Queijo](/images/japuapp-com-br-app-cheese-bread-portion-menu-icon-1.jpg)
 
 Do ponto de vista de experiência do usuário (UX), o ícone não é a melhor opção para menus. Mas se você quer homenagear Tiradentes, Minas Gerais, é louca/o por pão de queijo ou quer algo diferente, manda ver! Não esqueça de mandar uma imagem de seu site ou app usando o ícone para a nossa galeria.
 
@@ -57,8 +57,8 @@ Veja o arquivo [CHANGELOG.md](CHANGELOG.md).
 
 Ok, ficou curiosa/o pelos outros ícones de menu. Confira as imagens e tweets abaixo:
 
-![Tweet de 2015 do Luke Wroblewski](twitter-lukew-status-591296890030915585-a.jpg)
+![Tweet de 2015 do Luke Wroblewski](/images/twitter-lukew-status-591296890030915585-a.jpg)
 [Source](twitter-lukew-status-591296890030915585-a.jpg)
 
-![Tweet de 1.o de Abril de 2018 de Ramin Nasibov](twitter-raminnasibov-status-980481387684859904.jpg)
+![Tweet de 1.o de Abril de 2018 de Ramin Nasibov](/images/twitter-raminnasibov-status-980481387684859904.jpg)
 [Source](https://twitter.com/RaminNasibov/status/980481387684859904)

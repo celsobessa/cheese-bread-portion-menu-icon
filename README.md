@@ -9,7 +9,7 @@ The icon represents a portion of Pão de Queijo (Cheese Bread balls), a typical 
 
 As Japu - Rotas das Vertentes is an app about Tiradentes, we have a base in town and we are crazy abou the snack, there is no better way to pay homage than using a few pão de queijos in our website menu for a few days.
 
-![A cellphone with Japu Rotas Das Vertentes app using cheese bread icon in the menu](japuapp-com-br-app-cheese-bread-portion-menu-icon-1.jpg)
+![A cellphone with Japu Rotas Das Vertentes app using cheese bread icon in the menu](/images/japuapp-com-br-app-cheese-bread-portion-menu-icon-1.jpg)
 
 From a UX (User Experience), the icon may not be the best option for menus. But if you want to pay homage to Tiradentes, Minas Gerais, is crazy about Pão de Queijo or just something different, go ahead! Don't forget to send a screenshot of your website or app using the icon for our [Showcase gallery](README.md#showcase).
 
@@ -59,8 +59,8 @@ Check the [CHANGELOG.md](CHANGELOG.md) file.
 
 Ok, now you are curious about the other menu icons. Check the tweets and images below:
 
-![2015 tweet by Luke Wroblewski](twitter-lukew-status-591296890030915585-a.jpg)
+![2015 tweet by Luke Wroblewski](/images/twitter-lukew-status-591296890030915585-a.jpg)
 [Source](twitter-lukew-status-591296890030915585-a.jpg)
 
-![April, 1st, 2018 tweet by Ramin Nasibov](twitter-raminnasibov-status-980481387684859904.jpg)
+![April, 1st, 2018 tweet by Ramin Nasibov](/images/twitter-raminnasibov-status-980481387684859904.jpg)
 [Source](https://twitter.com/RaminNasibov/status/980481387684859904)
