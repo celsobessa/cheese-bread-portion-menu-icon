@@ -37,7 +37,7 @@ Available as [PNG](/icons/png/1024px/) and [SVG](/icons/svg/1024px/).
 
 ## About Cheese Bread
 
-You can learn more about this typical brazilian snack at [Wikipedia]. And if you by any chance visit Tiradentes, you should eat pão de queijo at [Na Venda Pão de Queijaria](https://www.navendapaodequeijaria.com.br/), the best pão de [queijo in Brazil](https://www.japuapp.com.br/app/#japu-card-292).
+You can learn more about this typical brazilian snack at [Wikipedia](https://en.wikipedia.org/wiki/P%C3%A3o_de_queijo). And if you by any chance visit Tiradentes, you should eat pão de queijo at [Na Venda Pão de Queijaria](https://www.navendapaodequeijaria.com.br/), the best [pão de queijo in Brazil](https://www.japuapp.com.br/app/#japu-card-292).
 
 ## Showcase
 
