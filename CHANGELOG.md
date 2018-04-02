@@ -17,6 +17,11 @@ This project adheres to [Semantic Versioning](http://semver.org/)
 - icon design enhancements
 - CSS/Javascript effect for opening and closing menus (maybe)
 
+## 0.1.3 - 2018-04-02
+
+### Changed
+- Improved README
+
 ## 0.1.2 - 2018-04-02
 
 ### Added
