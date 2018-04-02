@@ -7,6 +7,10 @@ A free for use (and low calories) menu icon for those who love Pão de Queijo (C
 ## About the icon
 The icon represents a portion of Pão de Queijo (Cheese Bread balls), a typical and delicious snack fom Minas Gerais state in Brazil. It was created as humorous homage for celebrating both the first WordPress Meetup at Tiradentes, a small and beautiful town in the state countryside, in the same week of April's fool of 2018, and the city 300 years anniversary. It was inspired by [a 2015 tweet by Luke Wroblewski](https://twitter.com/lukew/status/591296890030915585) and a [follow up by Ramin Nasibov](https://twitter.com/RaminNasibov/status/980481387684859904) kind of joking about "Hamburger Menu" and other food related name for usual icons for apps and websites like "Döner", "Kebab", "Bento" and "Meatballs" menu.
 
+As Japu - Rotas das Vertentes is an app about Tiradentes, we have a base in town and we are crazy abou the snack, there is no better way to pay homage than using a few pão de queijos in our website menu for a few days.
+
+![A cellphone with Japu Rotas Das Vertentes app using cheese bread icon in the menu](japuapp-com-br-app-cheese-bread-portion-menu-icon-1.jpg)
+
 From a UX (User Experience), the icon may not be the best option for menus. But if you want to pay homage to Tiradentes, Minas Gerais, is crazy about Pão de Queijo or just something different, go ahead! Don't forget to send a screenshot of your website or app using the icon for our [Showcase gallery](README.md#showcase).
 
 ### The Icon
@@ -33,7 +37,7 @@ Available as [PNG](/icons/png/1024px/) and [SVG](/icons/svg/1024px/).
 
 ## About Cheese Bread
 
-You can learn more about this typical brazilian snack at [Wikipedia] and if you by any chance come to Tiradentes
+You can learn more about this typical brazilian snack at [Wikipedia]. And if you by any chance visit Tiradentes, you should eat pão de queijo at [Na Venda Pão de Queijaria](https://www.navendapaodequeijaria.com.br/), the best pão de [queijo in Brazil](https://www.japuapp.com.br/app/#japu-card-292).
 
 ## Showcase
 
