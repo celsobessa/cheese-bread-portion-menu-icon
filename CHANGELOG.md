@@ -1,7 +1,7 @@
 # Changelog
 Project: Cheese Bread Portion Menu Icon
 Description: A free for use menu icon for those who love Pão de Queijo (Cheese Bread), a iconic food from Minas Gerais state, Brazil. Created for [Japu - Rotas das Vertentes](https://www.japuapp.com.br/app/) and [licensed under the MIT License.](LICENSE)
-Version:     0.2.2
+Version:     0.2.3
 Author:      Celso Bessa
 Author URI:  https://www.celsobessa.com.br
 License:     MIT
@@ -17,10 +17,16 @@ This project adheres to [Semantic Versioning](http://semver.org/)
 - icon design enhancements
 - CSS/Javascript effect for opening and closing menus (maybe)
 
+## 0.2.3 - 2018-04-09
+
+### Changed
+- optimized png files
+
 ## 0.2.2 - 2018-04-02
 
 ### Fixed
 - Images path for screenshots
+- update real world usage example image (Japu App)
 
 ## 0.2.1 - 2018-04-02
 
